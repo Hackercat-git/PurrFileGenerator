@@ -12,6 +12,8 @@
 
 </div>
 
+**PurrFileGenerator** turns any GitHub username into a clean, animated SVG stats card — ready to drop straight into your profile README. Run one command, get one file. No libraries, no setup, just Python.
+
 ---
 
 ## Features
