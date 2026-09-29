@@ -4,14 +4,17 @@
 <text x="30" y="40" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#e6edf3">Hackercat-git on GitHub</text>
 <text x="30" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#58a6ff">2</text>
 <text x="30" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">Repos</text>
-<text x="180" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#58a6ff">1</text>
+<text x="180" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#58a6ff">6</text>
 <text x="180" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">Stars</text>
-<text x="330" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#58a6ff">0</text>
+<text x="330" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#58a6ff">1</text>
 <text x="330" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e">Forks</text>
 <g clip-path="url(#bar)">
 <rect x="30" y="125" width="435" height="10" fill="#21262d"/>
-<rect x="30.0" y="125" width="435.0" height="10" fill="#3178c6"/>
+<rect x="30.0" y="125" width="217.5" height="10" fill="#3178c6"/>
+<rect x="247.5" y="125" width="217.5" height="10" fill="#f1e05a"/>
 </g>
 <circle cx="35" cy="161" r="5" fill="#3178c6"/>
-<text x="46" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9">Python 100%</text>
+<text x="46" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9">Python 50%</text>
+<circle cx="185" cy="161" r="5" fill="#f1e05a"/>
+<text x="196" y="165" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#c9d1d9">Go 50%</text>
 </svg>
