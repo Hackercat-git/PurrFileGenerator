@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="280" viewBox="0 0 495 280" role="img" aria-label="Hackercat-git GitHub stats">
+<title>Hackercat-git on GitHub — purrfile</title>
+<defs>
+<style>:root{--bg1:#0f1f14;--bg2:#08120c;--ac1:#4ade80;--ac2:#a3e635;--tm:#f0fdf4;--td:#86efac;--lc0:#4ade80;--lc1:#a3e635;--lc2:#34d399;--lc3:#86efac;--lc4:#22c55e;}@media(prefers-color-scheme:light){:root{--bg1:#f0fdf4;--bg2:#dcfce7;--ac1:#15803d;--ac2:#4d7c0f;--tm:#052e16;--td:#166534;}}.tm{fill:var(--tm)}.td{fill:var(--td)}.lc0{fill:var(--lc0)}.lc1{fill:var(--lc1)}.lc2{fill:var(--lc2)}.lc3{fill:var(--lc3)}.lc4{fill:var(--lc4)}@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:translateY(0)}}@keyframes fadeIn{from{opacity:0}to{opacity:1}}.s0{animation:fadeUp .5s ease .05s both}.s1{animation:fadeUp .5s ease .15s both}.s2{animation:fadeUp .5s ease .25s both}.s3{animation:fadeUp .5s ease .38s both}.s4{animation:fadeUp .5s ease .50s both}.ll{animation:fadeIn .6s ease .9s both}.ft{animation:fadeIn .6s ease 1.1s both}</style>
+<linearGradient id="g-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" style="stop-color:var(--bg1)"/><stop offset="1" style="stop-color:var(--bg2)"/></linearGradient>
+<linearGradient id="g-ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--ac1)"/><stop offset="1" style="stop-color:var(--ac2)"/></linearGradient>
+<clipPath id="bc"><rect x="30" y="180" width="435" height="10" rx="5"/></clipPath>
+<clipPath id="ba"><rect x="30" y="180" height="10"><animate attributeName="width" from="0" to="435" dur="1.2s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/></rect></clipPath>
+</defs>
+<rect x=".5" y=".5" width="494" height="279" rx="14" fill="url(#g-bg)" style="stroke:var(--ac1)" stroke-opacity=".28"/>
+<g transform="translate(453,34) scale(1.3)" style="fill:var(--ac1)"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="30" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" class="tm">Hackercat-git on GitHub</text>
+<rect x="30" y="54" width="46" height="3" rx="1.5" fill="url(#g-ac)"/>
+<text x="30" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" class="tm s0">12</text>
+<text x="30" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td s0">Repos</text>
+<text x="180" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" class="tm s1">47</text>
+<text x="180" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td s1">Stars</text>
+<text x="330" y="100" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" class="tm s2">8</text>
+<text x="330" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td s2">Forks</text>
+<text x="30" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" class="tm s3">3</text>
+<text x="30" y="163" font-family="Segoe UI, Arial, sans-serif" font-size="11" class="td s3">Open Issues</text>
+<text x="248" y="148" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" class="tm s4">5d</text>
+<text x="248" y="163" font-family="Segoe UI, Arial, sans-serif" font-size="11" class="td s4">Commit Streak</text>
+<text x="30" y="170" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td">Languages</text>
+<g clip-path="url(#bc)"><g clip-path="url(#ba)">
+<rect x="30" y="180" width="435" height="10" style="fill:var(--bg1)"/>
+<rect x="30.00" y="180" width="261.00" height="10" class="lc0"/>
+<rect x="291.00" y="180" width="108.75" height="10" class="lc1"/>
+<rect x="399.75" y="180" width="43.50" height="10" class="lc2"/>
+<rect x="443.25" y="180" width="17.40" height="10" class="lc3"/>
+<rect x="460.65" y="180" width="4.35" height="10" class="lc4"/>
+</g></g>
+<g class="ll">
+<g transform="translate(36,208) scale(0.55)" style="fill:var(--lc0)"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="48" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td">Python 60%</text>
+<g transform="translate(186,208) scale(0.55)" style="fill:var(--lc1)"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="198" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td">JavaScript 25%</text>
+<g transform="translate(336,208) scale(0.55)" style="fill:var(--lc2)"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="348" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td">HTML 10%</text>
+<g transform="translate(36,232) scale(0.55)" style="fill:var(--lc3)"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="48" y="236" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td">CSS 4%</text>
+<g transform="translate(186,232) scale(0.55)" style="fill:var(--lc4)"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="198" y="236" font-family="Segoe UI, Arial, sans-serif" font-size="12" class="td">Shell 1%</text>
+</g>
+<text x="481" y="270" font-family="Segoe UI, Arial, sans-serif" font-size="10" class="td ft" text-anchor="end" opacity=".6">purrfile · 29 Sep 2026</text>
+</svg>
